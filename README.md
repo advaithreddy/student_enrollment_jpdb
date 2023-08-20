@@ -11,7 +11,6 @@ Student Enrollment Management System
 - [Project Status](#project-status)
 - [Contributors](#contributors)
 - [License](#license)
-- [Sources](#sources)
 - [Contact](#contact)
 
 ## Description
@@ -38,7 +37,7 @@ To use the Student Enrollment Management System, follow these steps:
 Clone the Repository: `git clone https://github.com/advaithreddy/student_enrollment_jpdb.git`
 
 Open the HTML File: Navigate to the project directory and open the index.html file in your web browser.
-To Create a JsonPowerDB account and follow the steps provided in this video [link](https://youtu.be/GT8TTtqPloE)
+To Create a JsonPowerDB account and follow the steps provided in this video [link](https://youtu.be/GT8TTtqPloE).
 
 Interact with the System:
 Enter the student's Roll No, Full Name, Class, Birth Date, Address, and Enrollment Date in the provided fields.
@@ -67,14 +66,11 @@ The Student Enrollment Management System is fully functional and ready for use, 
 
 This project is licensed under the [MIT License](LICENSE).
 
-## Sources
-
-No external sources were used for this project.
 
 ## Contact
 
 For inquiries, you can contact me at [advaithreddy9060@gmail.com](mailto:advaithreddy9060@gmail.com).
 
 
-Designed by [Advaith Reddy]
+Designed by Advaith Reddy
 

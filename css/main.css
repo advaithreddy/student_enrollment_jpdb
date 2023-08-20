@@ -1,0 +1,30 @@
+body {
+    background-color: #FFE5E5;
+}
+
+.container {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.btn {
+    margin-right: 10px;
+    transition: background-color 0.3s ease;
+    border-radius: 12px;
+}
+
+.btn:hover {
+    background-color: #FF6969;
+}
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: rgba(52, 58, 64, 0.65); /* Translucent background */
+    color: white;
+    text-align: center;
+    padding: 8px 0;
+}

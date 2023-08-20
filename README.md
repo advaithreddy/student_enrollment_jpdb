@@ -35,7 +35,7 @@ JsonPowerDB offers several advantages for this project:
 
 To use the Student Enrollment Management System, follow these steps:
 
-Clone the Repository: `git clone https://github.com/yourusername/student-enrollment-system.git`
+Clone the Repository: `git clone https://github.com/advaithreddy/student_enrollment_jpdb.git`
 
 Open the HTML File: Navigate to the project directory and open the index.html file in your web browser.
 To Create a JsonPowerDB account and follow the steps provided in this video [link](https://youtu.be/GT8TTtqPloE)

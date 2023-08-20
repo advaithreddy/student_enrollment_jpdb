@@ -39,6 +39,7 @@ Clone the Repository: `git clone https://github.com/advaithreddy/student_enrollm
 
 Open the HTML File: Navigate to the project directory and open the index.html file in your web browser.
 To Create a JsonPowerDB account and follow the steps provided in this video [link](https://youtu.be/GT8TTtqPloE)
+
 Interact with the System:
 Enter the student's Roll No, Full Name, Class, Birth Date, Address, and Enrollment Date in the provided fields.
 Click the Save button to add a new student record.
